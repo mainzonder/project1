@@ -1,0 +1,6 @@
+// .eslintrc
+{
+  "parserOptions": {
+    "ecmaVersion": 6
+  }
+}
